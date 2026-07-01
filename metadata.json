@@ -1,0 +1,6 @@
+{
+  "name": "JahitKu",
+  "description": "Aplikasi khusus penjahit untuk mencatat jenis jahitan, permakan, dan transaksi secara offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
